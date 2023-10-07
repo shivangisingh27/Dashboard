@@ -1,4 +1,4 @@
-**Assessing trends in health and social indicators: A multi-round analysis of NFHS data in India**
+# Assessing trends in health and social indicators: A multi-round analysis of NFHS data in India
 
 The NFHS stands for National Family Health Survey. It is a large-scale, multi-round survey conducted in a representative sample of households throughout India. The NFHS dataset encompasses all states and union territories of India. The project combines data from three rounds of the NFHS survey: NFHS-3 (2005-06), NFHS-4 (2015-16), and NFHS-5 (2019-21) to create a comprehensive dataset for analyzing and comparing the current state of health, demographics, and socio-economic factors in India.
 We focused on 25-key important questions involving matters of healthcare, demographics and nutritional and life choices of the survey respondents. We have used the official website of  NFHS maintained by IIPS and data.gov.in to gather our data which made sure that the data was genuine and accurate.
